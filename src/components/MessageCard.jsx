@@ -15,17 +15,11 @@ function MessageCard({ isActive }) {
 
   const message = `[Recipient Name],
 
-Your personalized birthday message goes here.
-
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
-
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
+cutie aaj aap 19 saal ke hogyeee really yr u r such a great,handsome,calm,sexy man i can never imagine of.aapka din shubh jaaye baby💗ilove u sooooo much😘😘😘😘😍
 
 Happy Birthday! 🎉
 
-— [Your Name]`;
+— nancy`;
 
   // Handle page transitions
   useEffect(() => {
