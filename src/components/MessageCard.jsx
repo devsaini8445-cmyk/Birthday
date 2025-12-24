@@ -13,19 +13,18 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `[Sweetuuu],
 
-Your personalized birthday message goes here.
-
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
-
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
+Happppppyyyyyyyyy Bbbbbbbbiiirrrrrrrrrttttthhhhhhdayyyyyyy to my loveeeeeeeee 
+I'm sooooooooo haaaapppppyyyyyyy to have you in my life 
+Main expressss bhi ni kr skta ki jabse ap aaye ho meri life tavse main kitna khush rhta hu 
+main jo chij nahi bol pata ap vo bhi samajh jate ho 
+Thank you so much meri life me aane ke liye 
+I love youuuu
 
 Happy Birthday! 🎉
 
-— [Your Name]`;
+— [Apppka Devvv]`;
 
   // Handle page transitions
   useEffect(() => {
