@@ -15,7 +15,7 @@ function MessageCard({ isActive }) {
 
   const message = `[Sweetuuu],
 
-Happppppyyyyyyyyy Bbbbbbbbiiirrrrrrrrrttttthhhhhhdayyyyyyy to my loveeeeeeeee 
+Happppppyyyyyyyyy Birthdayyyyyyy to my loveeeeeeeee 
 I'm sooooooooo haaaapppppyyyyyyy to have you in my life 
 Main expressss bhi ni kr skta ki jabse ap aaye ho meri life tavse main kitna khush rhta hu 
 main jo chij nahi bol pata ap vo bhi samajh jate ho 
